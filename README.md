@@ -1,6 +1,6 @@
 # Bioinformatic methods
 
-Bioinfomatic analysis will be performed by Stem Cell Aging and Cancer Research Group. Raw data will be processed on the computing cluster Saga (UNINETT Sigma2 AS). For RNA-sequencing analysis, reads will be mapped using STAR 1 and counted using HTSeq-Counts 2. Differential gene expression will be performed using DESeq2 3. For ChIP-seq analysis, reads will be mapped using BWA 4. Peak calling will be executed by MACS 5 and annotated using ChIPseeker 6. An overlap analysis will be performed by comparing significant peaks to differentially expressed genes. Further downstream data exploration include motif enrichment (MEME suite 7), gene set enrichment (clusterProfiler 8) and pathway analyis (ReactomePA 9). 
+Bioinfomatic analysis will be performed by Stem Cell Aging and Cancer Research Group. Raw data will be processed on the computing cluster Saga (UNINETT Sigma2 AS). For RNA-sequencing analysis, reads will be mapped using STAR (1) and counted using HTSeq-Counts (2). Differential gene expression will be performed using DESeq2 (3). For ChIP-seq analysis, reads will be mapped using BWA (4). Peak calling will be executed by MACS (5) and annotated using ChIPseeker (6). An overlap analysis will be performed by comparing significant peaks to differentially expressed genes. Further downstream data exploration include motif enrichment (MEME suite 7), gene set enrichment (clusterProfiler 8) and pathway analyis (ReactomePA [9]). 
 
 
 ## References
